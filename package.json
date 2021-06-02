@@ -20,11 +20,11 @@
     "eslint-plugin-prettier": "^3.3.1",
     "prettier": "^2.2.1",
     "ts-node-dev": "^1.1.6",
-    "typescript": "^4.2.3",
-    "laravel-elixir": "*"
+    "typescript": "^4.2.3"
   },
   "dependencies": {
     "express": "^4.17.1",
+    "multer": "^1.4.2",
     "uuid": "^8.3.2"
   }
 }
