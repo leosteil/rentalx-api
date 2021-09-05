@@ -1,5 +1,3 @@
-import { isConstructorToken } from "tsyringe/dist/typings/providers/injection-token";
-
 export class AppError {
     public readonly message: string;
 
